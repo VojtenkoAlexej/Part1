@@ -1,0 +1,33 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+.idea/
+*.iml
+
+### Maven template
+target/
+
+### Eclipse template
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+### NetBeans template
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### macOS template
+.DS_Store
+.AppleDouble
+.LSOverride
