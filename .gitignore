@@ -19,14 +19,6 @@ local.properties
 .loadpath
 .recommenders
 
-### NetBeans template
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-
 ### macOS template
 .DS_Store
 .AppleDouble
